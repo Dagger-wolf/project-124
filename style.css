@@ -1,0 +1,40 @@
+.heading{
+
+    box-shadow: 6.68px 6.69px 10px red;
+    font-size: 20px;
+    width: 100%;
+
+}
+
+.cheese{
+
+    color: red;
+    font-size: 17.5px;
+
+}
+
+.copy_right_footer{
+
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    line-height: 50px;
+    color:darkmagenta;
+
+}
+
+canvas{
+
+    border: 10px dashed black;
+    border-radius: 20px;
+    margin-left: 150px
+
+}
+
+body{
+
+    background-size: 100%;
+
+}
